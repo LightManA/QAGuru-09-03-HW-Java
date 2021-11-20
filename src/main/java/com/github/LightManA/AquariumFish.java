@@ -22,7 +22,7 @@ public class AquariumFish {
         System.out.println("Current size: " + size);
     }
 
-    // рыба взрослеет
+    // каков текущий возраст рыбки
     public void determiningCurrentAge() {
         System.out.println("Current age: " + age);
     }
@@ -43,7 +43,7 @@ public class AquariumFish {
         System.out.println("Am-am-am...");
     }
 
-    // рыба питается
+    // рыба хавает
     public void bigScaryFishEats() {
         System.out.println("Khyrch-khyrch-khyrch...");
     }

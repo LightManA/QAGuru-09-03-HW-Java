@@ -47,5 +47,4 @@ public class AquariumFish {
     public void bigScaryFishEats() {
         System.out.println("Khyrch-khyrch-khyrch...");
     }
-
 }

@@ -7,6 +7,7 @@ public class QAGuru09HomeWorkJava {
         AquariumFish doris = new AquariumFish();
         AquariumFish rybus = new AquariumFish();
         AquariumFish monstrus = new AquariumFish();
+        AquariumFish torchus = new AquariumFish();
 
         doris.nickName = "Doris";
         rybus.nickName = "Rybus";
@@ -25,7 +26,7 @@ public class QAGuru09HomeWorkJava {
 
         doris.age = 39;
         rybus.age = 30;
-        monstrus.age = 56;
+        monstrus.age = 57;
 
         doris.coloration = "red";
         rybus.coloration = "grey";

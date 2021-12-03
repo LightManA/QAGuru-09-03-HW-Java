@@ -7,6 +7,7 @@ public class QAGuru09HomeWorkJava {
         AquariumFish doris = new AquariumFish();
         AquariumFish rybus = new AquariumFish();
         AquariumFish monstrus = new AquariumFish();
+        AquariumFish torchus = new AquariumFish();
 
         doris.nickName = "Doris";
         rybus.nickName = "Rybus";

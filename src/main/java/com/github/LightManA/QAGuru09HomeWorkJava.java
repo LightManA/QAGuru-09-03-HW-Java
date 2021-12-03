@@ -47,7 +47,7 @@ public class QAGuru09HomeWorkJava {
         rybus.determiningCurrentFishSize();
         rybus.determiningCurrentAge();
         rybus.changingColorOfFishAsTheyGrowUp();
-        doris.fishEat();
+        rybus.fishEat();
 
         System.out.println();
 

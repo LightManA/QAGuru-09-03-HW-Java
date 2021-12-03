@@ -29,7 +29,7 @@ public class AquariumFish {
 
     // рыба взрослеет
     public void fishMatures() {
-        age = age + 3;
+        age = age + 2;
         System.out.println("I grew up to: " + age);
     }
 

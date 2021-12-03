@@ -25,7 +25,7 @@ public class QAGuru09HomeWorkJava {
 
         doris.age = 39;
         rybus.age = 30;
-        monstrus.age = 57;
+        monstrus.age = 56;
 
         doris.coloration = "red";
         rybus.coloration = "grey";

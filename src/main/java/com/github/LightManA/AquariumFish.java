@@ -45,6 +45,6 @@ public class AquariumFish {
 
     // рыба хавает
     public void bigScaryFishEats() {
-        System.out.println("Khyrch-khyrch-khyrch...");
+        System.out.println("meow-meow-meow...");
     }
 }
